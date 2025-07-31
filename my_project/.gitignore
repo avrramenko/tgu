@@ -1,1 +1,17 @@
 *.pdf
+*.html
+AppData/
+Local Settings/
+Thumbs.db
+Desktop.ini
+*.tmp
+*.log*.tmp
+Application Data/
+Cookies/
+Local Settings/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+главное меню/
+Мои документы/
