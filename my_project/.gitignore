@@ -1,0 +1,8 @@
+*.pdf
+*.html
+AppData/
+Local Settings/
+Thumbs.db
+Desktop.ini
+*.tmp
+*.log*.tmp
